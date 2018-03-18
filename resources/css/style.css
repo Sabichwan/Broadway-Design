@@ -1,0 +1,60 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+  font-weight: bold;
+}
+
+header {
+  color: #fff;
+  background-image: url("../images/building.png");
+  background-repeat: no-repeat;
+}
+
+a {
+  color: inherit;
+}
+
+h1 {
+  font-size: 70px;
+  color: #fff;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3.special {
+  color: #fff;
+  background-image: url("../images/building.png");
+}
+
+h3 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
+  font-weight: normal;
+}
+
+ul {
+  font-size: 18px;
+  line-height: 2;
+  list-style-type: none;
+}
+
+p.footer {
+  font-size: 11px;
+}
+
+footer {
+  background-color: dimgray;
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+  float: left;
+}
+
+ul.footer {
+
+}
